@@ -9,7 +9,8 @@ R Munguía, S Urzua, A Grau,
 Sensors 19 (19), 4174.*
 
 **Instructions:**
-- Run the following file to load parameters values into the workspace: Simulink_v1/parameters.m
-- Open Simulink model: Simulink_v1/mavsim_L_t.slx (R2023b)
+- Open folder Simulink_v1/ in Matlab.
+- Run the following file to load parameter values into the workspace: parameters.m
+- Open Simulink model: mavsim_L_t.slx (R2023b)
 - Run the model
 
