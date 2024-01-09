@@ -1,5 +1,7 @@
 # EKF-Based Parameter Identification of Multi-Rotor Unmanned Aerial VehiclesModels
 
+![](fig.png)
+
 MATLAB/Simulink code for paper: 
 
 *EKF-based parameter identification of multi-rotor unmanned aerial vehiclesmodels,
